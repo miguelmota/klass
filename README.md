@@ -23,9 +23,6 @@ var Robot = klass(null, {
 });
 
 var Cyborg = klass(Robot, {
-  _construct: function(v) {
-
-  },
   fireWeapon: function() {
     var weapon = Cyborg._super.fireWeapon.call(this);
     return 'Firing ' + weapon;
