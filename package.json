@@ -1,0 +1,28 @@
+{
+  "name": "klassjs",
+  "version": "0.0.1",
+  "description": "Classical classes",
+  "main": "klass.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelmota/klass.git"
+  },
+  "keywords": [
+    "classes"
+  ],
+  "author": "Miguel Mota <hello@miguelmota.com> (http://www.miguelmota.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miguelmota/klass/issues"
+  },
+  "homepage": "https://github.com/miguelmota/klass",
+  "devDependencies": {
+    "tape": "^3.0.3"
+  }
+}

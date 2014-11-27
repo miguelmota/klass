@@ -1,0 +1,21 @@
+{
+  "name": "klassjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/klass",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Classical classes",
+  "main": "klass.js",
+  "keywords": [
+    "classes"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
